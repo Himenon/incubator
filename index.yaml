@@ -1,0 +1,39 @@
+apiVersion: v1
+entries:
+  node-red:
+  - apiVersion: v1
+    created: 2018-01-23T19:31:22.483524556+09:00
+    description: A Helm chart for Kubernetes
+    digest: 62bf235bc92025e519a756a6ab8b634c79f46722f2d4ea4145256fdc6e3f7e41
+    name: node-red
+    urls:
+    - https://himenon.github.io/incubator/node-red-0.1.0.tgz
+    version: 0.1.0
+  redash:
+  - apiVersion: v1
+    created: 2018-01-23T19:31:22.485381033+09:00
+    description: Redash for Kubernetes
+    digest: 2097141d6aff517cf27f579abbcddeb7ec985516709e78a13bb57911f9800c9c
+    name: redash
+    urls:
+    - https://himenon.github.io/incubator/redash-0.1.0.tgz
+    version: 0.1.0
+  scrapy-splash:
+  - apiVersion: v1
+    created: 2018-01-23T19:31:22.486968258+09:00
+    description: A Helm chart for Kubernetes
+    digest: ac031545d6c3b025f9852aa3e04299d28b450aeab3c133f5aca9131026926235
+    name: scrapy-splash
+    urls:
+    - https://himenon.github.io/incubator/scrapy-splash-0.1.0.tgz
+    version: 0.1.0
+  scrapyd:
+  - apiVersion: v1
+    created: 2018-01-23T19:31:22.488197296+09:00
+    description: A Helm chart for Kubernetes
+    digest: 4d0294952b019bafb42f66b24954285a567a08fcbe66b31aa94e35788d5bcb17
+    name: scrapyd
+    urls:
+    - https://himenon.github.io/incubator/scrapyd-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-23T19:31:22.481284933+09:00
